@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "title": "hey",
+        "date": "August 06, 2025",
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hey",
+                "time": "7:45 PM"
+            },
+            {
+                "sender": "bot",
+                "message": "Hi there. It's good to connect with you. How are you feeling today? I'm here to listen without judgment, so feel free to share whatever is on your mind. Whether you're feeling joyful, curious, or something else entirely, I'm here to chat. No pressure at all, just let me know how I can support you.",
+                "time": "7:45 PM"
+            },
+            {
+                "sender": "user",
+                "message": "give me yogasana for sadnedd",
+                "time": "7:45 PM"
+            },
+            {
+                "sender": "bot",
+                "message": "I understand you're looking for yoga poses to help with sadness. While I can't provide medical advice, I can share some poses that are often suggested for lifting mood and promoting a sense of well-being. Practices like Child's Pose, gentle backbends like Cobra Pose, and forward folds such as Standing Forward Bend can be helpful. Remember to listen to your body and only do what feels comfortable. If you're new to yoga, it might be beneficial to find a qualified instructor who can guide you. How are you feeling emotionally and physically right now?",
+                "time": "7:45 PM"
+            }
+        ]
+    }
+]
